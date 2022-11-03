@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg198"
+   width="495.33334"
+   height="499.60001"
+   viewBox="0 0 495.33334 499.60001"
+   sodipodi:docname="isotipotg.svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs202">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath216">
+      <path
+         d="M 0,374.7 H 371.5 V 0 H 0 Z"
+         id="path214" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview200"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.2879647"
+     inkscape:cx="247.67759"
+     inkscape:cy="250.00685"
+     inkscape:window-width="1954"
+     inkscape:window-height="1088"
+     inkscape:window-x="144"
+     inkscape:window-y="45"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g206">
+    <inkscape:page
+       x="0"
+       y="0"
+       id="page204"
+       width="495.33334"
+       height="499.60001" />
+  </sodipodi:namedview>
+  <g
+     id="g206"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,499.6)">
+    <g
+       id="g210"
+       transform="matrix(1.1126681,0,0,1.1126681,-18.118445,-22.834765)">
+      <g
+         id="g212"
+         clip-path="url(#clipPath216)">
+        <g
+           id="g218"
+           transform="translate(183.1184,27.3977)">
+          <path
+             d="M 0,0 C 88.183,0 160.307,72.124 160.307,160.307 160.307,248.49 88.183,320.614 0,320.614 -88.183,320.614 -160.307,248.49 -160.307,160.307 -160.307,72.124 -88.183,0 0,0 m 0,68.346 c -52.065,0 -91.961,41.618 -91.961,91.961 0,50.343 39.896,91.961 91.961,91.961 52.065,0 91.961,-41.618 91.961,-91.961 C 91.961,109.964 52.065,68.346 0,68.346"
+             style="fill:#83a496;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path220" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
