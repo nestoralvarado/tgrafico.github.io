@@ -1,2 +1,2 @@
-# tgrafico.github.io
+#github.io
 Desarrollo Web en Guayaquil
